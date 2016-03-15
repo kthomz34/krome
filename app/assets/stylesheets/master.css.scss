@@ -29,6 +29,7 @@ h1, h2, h3, h4, h5, h6, .navbar {
 .frosty {
 	background :rgba(0,0,0, 0.5);
 	color:white;
+	margin-top:50px;
 }
 
 .frosty h1 {
@@ -103,19 +104,6 @@ body {
   margin:0;
 }
 
-.section {
-  border: 1px solid;
-  border-color: #e4e4e4 #bebebd #bebebd #e4e4e4;
-  padding: 20px;
-}
-
-.section-li {
-  border: 1px solid;
-  border-color: #e4e4e4 #bebebd #bebebd #e4e4e4;
-  padding:20px;
-  margin:20px;
-}
-
 .lesson a {
   color:white;
   font-family: "Helvetica Neue",Helvetica;
@@ -128,17 +116,17 @@ body {
   font-size:25px;
 }
 
-.video-container2 {
-    text-align: center;
+.section {
+  border: 1px solid;
+  border-color: #e4e4e4 #bebebd #bebebd #e4e4e4;
+  padding: 20px;
 }
 
-.video-container {
-    width: 100%;
-}
-
-video#MY_VIDEO_1 {
-    margin: 0 auto;
-    display: table;
+.section-li {
+  border: 1px solid;
+  border-color: #e4e4e4 #bebebd #bebebd #e4e4e4;
+  padding:20px;
+  margin:20px;
 }
 
 ul {
